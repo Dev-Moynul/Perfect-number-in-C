@@ -13,8 +13,8 @@ int main()
        i++;
    }
    if(sum==n)
-    printf("%d is a perfect number",i);
+    printf("The number %d is a perfect number",i);
    else
-    printf("%d is not a perfect number",i);
+    printf("The number %d is not a perfect number",i);
     return 0;
 }
