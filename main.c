@@ -4,7 +4,7 @@
 int main()
 {
    int i=1,n,sum=0;
-   printf("Enter the number: ");
+   printf("Enter the perfect number: ");
    scanf("%d",&n);
    while(i<n)
    {
