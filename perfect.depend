@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1762863627 source:d:\linear\perfect\main.c
+	<stdio.h>
+	<stdlib.h>
+
